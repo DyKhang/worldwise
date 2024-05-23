@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "id": "3273",
+      "cityName": "Nhon Trach",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-05-08T15:18:21.078Z",
+      "notes": "",
+      "position": {
+        "lat": "10.6242300857033",
+        "lng": "106.96424048306275"
+      }
+    },
+    {
+      "id": "c8b2",
+      "cityName": "Thi Tran Phu My",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-05-08T15:52:37.847Z",
+      "notes": "",
+      "position": {
+        "lat": "10.572559121946762",
+        "lng": "107.07445269059889"
+      }
+    },
+    {
+      "id": "8b79",
+      "cityName": "Long Thanh",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-05-08T15:53:24.816Z",
+      "notes": "",
+      "position": {
+        "lat": "10.744312386696006",
+        "lng": "107.00817968261852"
+      }
+    },
+    {
+      "id": "4ac5",
+      "cityName": "Thi Tran Phu My",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-05-09T14:11:43.607Z",
+      "notes": "GOOODDDD\n",
+      "position": {
+        "lat": "10.572551508045025",
+        "lng": "107.05747604370119"
+      }
+    },
+    {
+      "id": "b8b3",
+      "cityName": "Borriol",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-09T14:22:02.230Z",
+      "notes": "",
+      "position": {
+        "lat": "40.0628438278062",
+        "lng": "-0.025770223981478328"
+      }
+    },
+    {
+      "id": "04f4",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-11T07:56:50.424Z",
+      "notes": "",
+      "position": {
+        "lat": "39.999215966720165",
+        "lng": "-0.03227233886718751"
+      }
+    }
+  ]
+}
